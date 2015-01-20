@@ -6,6 +6,7 @@ title: New post on Jekyll on Git Hub!
 # New Roger Williams Media post using Jekyll on Git Hub!
 
 This is the first post for **Roger Williams Media** on the **[Jekyll]** blogging *plaftorm* using the **[GitHub]** hosting system. This is a big change for your author, Roger, who has been using Wordpress to create his and his clients websites since 2003. Lately he has been experiencing a number of issues that are leading him to find an alternative:
+
 1. Complexity
 2. Accessibility
 3. Speed
